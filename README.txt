@@ -1,5 +1,9 @@
-Survival game for the Minetest game engine
-==========================================
+Hardcore Survival game for the Minetest game engine
+===================================================
+
+The intention for this game is a survival mode, which
+is really hard. Nature is gruel. There is only despair,
+fool.
 
 Insert this repository as
   /games/despair
