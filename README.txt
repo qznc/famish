@@ -2,7 +2,7 @@ Survival game for the Minetest game engine
 ==========================================
 
 Insert this repository as
-  /games/survival
+  /games/despair
 in the Minetest Engine.
 
 The Minetest Engine can be found in:
