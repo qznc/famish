@@ -1,0 +1,12 @@
+[submodule "mods/survival_modpack"]
+	path = mods/survival_modpack
+	url = https://github.com/kaeza/minetest-survival_modpack
+[submodule "mods/animals_modpack"]
+	path = mods/animals_modpack
+	url = git://github.com/sapier/animals_modpack.git
+[submodule "mods/farming"]
+	path = mods/farming
+	url = git://github.com/PilzAdam/farming.git
+[submodule "mods/ambienc"]
+	path = mods/ambienc
+	url = git://github.com/Neuromancer56/MinetestAmbience.git
