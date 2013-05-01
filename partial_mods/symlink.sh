@@ -3,7 +3,10 @@ set -e
 
 cd ../mods
 do_link() {
-	ln -s "../partial_mods/$1" $(basename "$1")
+	if [ ! -d "$(basename "$1")" ]
+	then
+		ln -s "../partial_mods/$1" $(basename "$1")
+	fi
 }
 
 # animals_modpack
