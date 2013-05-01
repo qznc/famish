@@ -1,5 +1,5 @@
 
-TORCH_TIMEOUT = (60 * 10); # seconds
+TORCH_TIMEOUT = (60 * 10);
 
 local function deepcopy ( t )
     local nt = { };
