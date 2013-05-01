@@ -16,3 +16,10 @@ do
 	do_link "animals_modpack/$mod"
 done
 
+# survival_modpack
+for mod in survival_lib\
+	survival_drowning survival_hazards survival_hunger
+do
+	do_link "survival_modpack/$mod"
+done
+

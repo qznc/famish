@@ -1,6 +1,3 @@
-[submodule "mods/survival_modpack"]
-	path = mods/survival_modpack
-	url = https://github.com/kaeza/minetest-survival_modpack
 [submodule "mods/farming"]
 	path = mods/farming
 	url = git://github.com/PilzAdam/farming.git
@@ -10,3 +7,6 @@
 [submodule "partial_mods/animals_modpack"]
 	path = partial_mods/animals_modpack
 	url = git://github.com/sapier/animals_modpack.git
+[submodule "partial_mods/survival_modpack"]
+	path = partial_mods/survival_modpack
+	url = https://github.com/kaeza/minetest-survival_modpack
