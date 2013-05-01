@@ -1,5 +1,5 @@
 
-TORCH_TIMEOUT = (60 * 20);
+TORCH_TIMEOUT = (60 * 10); # seconds
 
 local function deepcopy ( t )
     local nt = { };
@@ -32,11 +32,6 @@ end
 
 new_torch.on_timer = function ( pos )
     minetest.env:remove_node(pos);
-    if (minetest.spawn_item) then
-        minetest.spawn_item(pos, "default:torch");
-    else
-        minetest.env:add_entity(pos, "burning_torch:item");
-    end
 end;
 
 minetest.register_node(":default:torch", new_torch);
