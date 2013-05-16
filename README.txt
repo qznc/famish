@@ -7,7 +7,9 @@ fool.
 
 Insert this repository as
   /games/famish
-in the Minetest Engine.
+in the Minetest Engine. Then execute
+  cd games/famish && make
+before you can play the game.
 
 The Minetest Engine can be found in:
   https://github.com/minetest/minetest/
