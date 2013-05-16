@@ -6,7 +6,7 @@ is really hard. Nature is gruel. There is only despair,
 fool.
 
 Insert this repository as
-  /games/despair
+  /games/famish
 in the Minetest Engine.
 
 The Minetest Engine can be found in:
