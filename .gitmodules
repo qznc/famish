@@ -16,3 +16,6 @@
 [submodule "mods/plantlife"]
 	path = mods/plantlife
 	url = git://github.com/VanessaE/plantlife.git
+[submodule "mods/builtin_item"]
+	path = mods/builtin_item
+	url = git://github.com/PilzAdam/builtin_item.git
