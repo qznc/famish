@@ -19,3 +19,6 @@
 [submodule "mods/builtin_item"]
 	path = mods/builtin_item
 	url = git://github.com/PilzAdam/builtin_item.git
+[submodule "mods/throwing"]
+	path = mods/throwing
+	url = git://github.com/PilzAdam/throwing.git
