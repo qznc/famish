@@ -10,3 +10,6 @@
 [submodule "partial_mods/survival_modpack"]
 	path = partial_mods/survival_modpack
 	url = https://github.com/kaeza/minetest-survival_modpack
+[submodule "mods/mobs"]
+	path = mods/mobs
+	url = git://github.com/PilzAdam/mobs.git
