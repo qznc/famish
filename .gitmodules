@@ -13,3 +13,6 @@
 [submodule "mods/mobs"]
 	path = mods/mobs
 	url = git://github.com/PilzAdam/mobs.git
+[submodule "mods/plantlife"]
+	path = mods/plantlife
+	url = git://github.com/VanessaE/plantlife.git
