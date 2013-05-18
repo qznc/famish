@@ -22,3 +22,6 @@
 [submodule "mods/throwing"]
 	path = mods/throwing
 	url = git://github.com/PilzAdam/throwing.git
+[submodule "mods/vines"]
+	path = mods/vines
+	url = git://github.com/bas080/vines.git
