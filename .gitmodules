@@ -25,3 +25,6 @@
 [submodule "mods/vines"]
 	path = mods/vines
 	url = git://github.com/bas080/vines.git
+[submodule "mods/calinou_mods"]
+	path = mods/calinou_mods
+	url = git://github.com/Calinou/calinou_mods.git
