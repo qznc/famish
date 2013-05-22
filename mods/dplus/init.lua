@@ -223,7 +223,7 @@ minetest.register_craft({
 
 --overrides that torches need group coal
 minetest.register_craft({
-	output = ':default:torch 4',
+	output = 'default:torch 4',
 	recipe = {
 		{'group:coal'},
 		{'default:stick'},

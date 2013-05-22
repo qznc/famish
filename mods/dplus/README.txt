@@ -1,6 +1,6 @@
 Minetest mod "Default Plus"
 =======================
-version: 1.0.1
+version: 1.0.2
 
 License of source code and textures: WTFPL
 -----------------------------------------
