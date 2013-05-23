@@ -25,3 +25,6 @@
 [submodule "mods/vines"]
 	path = mods/vines
 	url = git://github.com/bas080/vines.git
+[submodule "mods/snow"]
+	path = mods/snow
+	url = git://github.com/Splizard/minetest-mod-snow.git
