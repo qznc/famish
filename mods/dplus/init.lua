@@ -222,13 +222,23 @@ minetest.register_craft({
 
 
 --overrides that torches need group coal
-minetest.register_craft({
-	output = 'default:torch 4',
-	recipe = {
-		{'group:coal'},
-		{'default:stick'},
-	}
-})
+if (minetest.get_modpath("stoneage")) ~= nil then
+	minetest.register_craft({
+		output = 'stoneage:torch_unlit 4',
+		recipe = {
+			{'group:coal'},
+			{'default:stick'},
+		}
+	})
+else
+	minetest.register_craft({
+		output = 'default:torch 4',
+		recipe = {
+			{'group:coal'},
+			{'default:stick'},
+		}
+	})
+end
 
 minetest.register_craftitem(":default:coal_lump", {
 	description = "Coal Lump",
