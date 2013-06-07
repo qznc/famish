@@ -1,6 +1,3 @@
-[submodule "mods/farming"]
-	path = mods/farming
-	url = git://github.com/PilzAdam/farming.git
 [submodule "partial_mods/animals_modpack"]
 	path = partial_mods/animals_modpack
 	url = git://github.com/sapier/animals_modpack.git
