@@ -1,3 +1,10 @@
+## Generic ignorable patterns and files
+*~
+.*.swp
+*bak*
+tags
+*.vim
+
 mods/animal*
 mods/mob*
 mods/survival_*

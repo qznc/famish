@@ -35,9 +35,11 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 
 License of media (textures and sounds)
 --------------------------------------
-Copyright (C) 2013 celeron55, Perttu Ahola <celeron55@gmail.com>
+Copyright (C) 2010-2012 celeron55, Perttu Ahola <celeron55@gmail.com>
 See README.txt in each mod directory for information about other authors.
 
-Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)                                 
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 http://creativecommons.org/licenses/by-sa/3.0/
 
+License of menu/header.png
+Copyright (C) 2013 BlockMen CC BY-3.0
