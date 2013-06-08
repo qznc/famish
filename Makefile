@@ -7,7 +7,7 @@ VERSION=$(shell git describe --always --tags)
 tarball:
 	rm -rf famish-$(VERSION)
 	mkdir famish-$(VERSION)
-	cp -rL README.txt game.conf mods -t famish-$(VERSION)/
+	cp -rL README.txt game.conf mods menu -t famish-$(VERSION)/
 	tar -cjhf famish-$(VERSION).tar.bz2 famish-$(VERSION)
 
 partial-mods:
